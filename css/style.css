@@ -1,0 +1,52 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.margin-right{
+  margin-right: 15px;
+}
+.flex{
+  display: flex;
+  justify-content: space-between;
+}
+
+.displayin{
+  display: inline-block;
+}
+
+nav{
+  margin-top: 30px;
+  height: 30px;
+}
+
+.ico{
+  margin-right: 30px;
+}
+
+.navbar2, .navbar3{
+  margin-left: 100px;
+}
+
+ul{
+  display: inline-block;
+}
+
+.box1,
+.box1-1,
+.box2,
+.box2-1,
+.box2-2{
+  margin-left: 20px;
+}
+
+.menu1{
+  position: absolute;
+  display: none;
+}
