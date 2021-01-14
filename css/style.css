@@ -46,7 +46,7 @@ ul{
   margin-left: 20px;
 }
 
-.menu1{
+.menu1, .menu2, .menu3 {
   position: absolute;
   display: none;
 }

@@ -5,4 +5,22 @@ $('.box2').mouseenter(function(){
 $('.box2').mouseleave(function(){
   $('.menu1').hide();
 })
+$('.box2-1').mouseenter(function(){
+  $('.menu2').show();
+})
+$('.box2-1').mouseleave(function(){
+  $('.menu2').hide();
+})
+$('.box2-2').mouseenter(function(){
+  $('.menu3').show();
+})
+$('.box2-2').mouseleave(function(){
+  $('.menu3').hide();
+})
+$('.box2-3').mouseenter(function(){
+  $('.menu4').show();
+})
+$('.box2-3').mouseleave(function(){
+  $('.menu4').hide();
+})
 });
